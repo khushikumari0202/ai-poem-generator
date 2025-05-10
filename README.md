@@ -1,10 +1,3 @@
-<div align='center'>
-
-# [AI Poem Generator](https://ai-poem-generator-krinals-projects.vercel.app/)
-
-</div>
-
-![AI Poem Generator](https://imgur.com/XEgTEyI.png)
 
 AI Poem Generator is an innovative web application that harnesses the power of artificial intelligence to create unique and inspiring poems. By leveraging the Anthropic API and a suite of modern web technologies, this project offers users a seamless and interactive experience in generating AI-crafted poetry.
 
